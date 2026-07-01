@@ -5,7 +5,6 @@ Passionately learning software development, genAI and machine learning.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Striver_A2Z-orange?style=flat)
 ![ML](https://img.shields.io/badge/Machine_Learning-purple?style=flat)
 
 ---
@@ -13,7 +12,7 @@ Passionately learning software development, genAI and machine learning.
 ## About me
 
 - 🎓 B.Tech Chemical Engineering — NIT Hamirpur
-- 🔭 Currently building foundations of software engineering and AI.
+- 🔭 Currently building foundations of software engineering, ML and AI.
 - 🌱 Learning Data Structures and Algorithms; ML and GenAI
 - 💬 Ask me about Java, Python, DSA, ML, GenAI or Chemical engineering.
 - 📍 India
